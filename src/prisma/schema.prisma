@@ -6,5 +6,5 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("postgresql://postres:Ritik@8291@localhost:5432/nestdb")
+  url      = env("mongodb+srv://shainakatoch05:chims@cluster0.rnm30jx.mongodb.net")
 }
